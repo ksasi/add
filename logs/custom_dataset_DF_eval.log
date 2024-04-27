@@ -1,0 +1,28 @@
+wandb: Currently logged in as: ksasi. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /home/ubuntu/add/logs/wandb/run-20240426_201815-9dtexnbq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dark-river-38
+wandb: ⭐️ View project at https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: 🚀 View run at https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/9dtexnbq
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/Best_LA_model_for_DF.pth
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+Evaluation metrics for DF track using custom_dataset :
+AUC is : 0.6519079154840745
+EER is : 0.3904761904761746
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.009 MB of 0.009 MB uploadedwandb:                                                                                
+wandb: 🚀 View run dark-river-38 at: https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/9dtexnbq
+wandb: ⭐️ View project at: https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: /home/ubuntu/add/logs/wandb/run-20240426_201815-9dtexnbq/logs

@@ -1,0 +1,7 @@
+
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/model_DF_weighted_CCE_30_128_0.0001_finetune/epoch_29.pth
+Evaluation metrics for DF track using FORTest datatset on fine-tuned model :
+AUC is : 0.9506416320800781
+EER is : 0.10937500000003778

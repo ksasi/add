@@ -1,0 +1,75 @@
+wandb: Currently logged in as: ksasi. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /home/ubuntu/add/logs/wandb/run-20240426_210428-v4ldqh18
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run frosty-wave-40
+wandb: ⭐️ View project at https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: 🚀 View run at https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/v4ldqh18
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/LA_model.pth
+
+Epoch: 0 - Training Loss: 6.177458351905193 - Validation Loss:5.122157270258123 
+
+Epoch: 1 - Training Loss: 2.3124534170561972 - Validation Loss:2.217706170949069 
+
+Epoch: 2 - Training Loss: 0.7170021853862553 - Validation Loss:0.9859037534757094 
+
+Epoch: 3 - Training Loss: 0.45966034526125005 - Validation Loss:0.6626355756412853 
+
+Epoch: 4 - Training Loss: 0.42872043897252565 - Validation Loss:0.5981899960474535 
+
+Epoch: 5 - Training Loss: 0.40973945823284463 - Validation Loss:0.5504757165908813 
+
+Epoch: 6 - Training Loss: 0.3925787587778284 - Validation Loss:0.5249817831949755 
+
+Epoch: 7 - Training Loss: 0.3822171551371933 - Validation Loss:0.5202898356047544 
+
+Epoch: 8 - Training Loss: 0.3651622414862344 - Validation Loss:0.4952780577269467 
+
+Epoch: 9 - Training Loss: 0.3484523903339281 - Validation Loss:0.48033398389816284 
+
+Epoch: 10 - Training Loss: 0.33471191954722096 - Validation Loss:0.45996240458705206 
+
+Epoch: 11 - Training Loss: 0.3246758041578695 - Validation Loss:0.4586991749026559 
+
+Epoch: 12 - Training Loss: 0.31811504981933386 - Validation Loss:0.47244798188859766 
+
+Epoch: 13 - Training Loss: 0.29885014153401784 - Validation Loss:0.4288608201525428 
+
+Epoch: 14 - Training Loss: 0.27511235743487644 - Validation Loss:0.448087292638692 
+
+Epoch: 15 - Training Loss: 0.2703100051901756 - Validation Loss:0.3835372152653607 
+
+Epoch: 16 - Training Loss: 0.2603031128918359 - Validation Loss:0.40953456542708655 
+
+Epoch: 17 - Training Loss: 0.24848437268252765 - Validation Loss:0.37479260021989996 
+
+Epoch: 18 - Training Loss: 0.23756348786004092 - Validation Loss:0.36093428324569354 
+
+Epoch: 19 - Training Loss: 0.22667331733834853 - Validation Loss:0.33727871017022565 
+
+Epoch: 20 - Training Loss: 0.2200373735176314 - Validation Loss:0.3557345934889533 
+
+Epoch: 21 - Training Loss: 0.21312170427873595 - Validation Loss:0.31553819233720953 
+
+Epoch: 22 - Training Loss: 0.2081356781338333 - Validation Loss:0.2920344343239611 
+
+Epoch: 23 - Training Loss: 0.2043555316028245 - Validation Loss:0.2873759364539927 
+
+Epoch: 24 - Training Loss: 0.19515933164762794 - Validation Loss:0.28501697155562317 
+
+Epoch: 25 - Training Loss: 0.19074505253122487 - Validation Loss:0.2520825720646165 
+
+Epoch: 26 - Training Loss: 0.1857859281088234 - Validation Loss:0.26569613204760983 
+
+Epoch: 27 - Training Loss: 0.17693500466849826 - Validation Loss:0.2528730800206011 
+
+Epoch: 28 - Training Loss: 0.17563714148527984 - Validation Loss:0.22456184368241916 
+
+Epoch: 29 - Training Loss: 0.1701382274201157 - Validation Loss:0.22840240733190018 
+wandb: - 0.011 MB of 0.011 MB uploadedwandb:                                                                                
+wandb: 🚀 View run frosty-wave-40 at: https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/v4ldqh18
+wandb: ⭐️ View project at: https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: /home/ubuntu/add/logs/wandb/run-20240426_210428-v4ldqh18/logs

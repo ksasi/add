@@ -1,0 +1,7 @@
+
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/Best_LA_model_for_DF.pth
+Evaluation metrics for DF track using custom_dataset :
+AUC is : 0.6519079154840745
+EER is : 0.3904761904761746

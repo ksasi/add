@@ -1,0 +1,17 @@
+
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/LA_model.pth
+Epoch: 0 - Training Loss: 8.29349937788937 - Validation Loss:8.639573444019664
+Epoch: 1 - Training Loss: 8.257153602915073 - Validation Loss:8.691024195064198
+Epoch: 2 - Training Loss: 8.261948839240118 - Validation Loss:8.63032230463895
+Epoch: 3 - Training Loss: 8.22239506135293 - Validation Loss:8.565291903235696
+Epoch: 4 - Training Loss: 8.143356025765796 - Validation Loss:8.544092893600464
+Epoch: 5 - Training Loss: 8.0672150226908 - Validation Loss:8.509868210012263
+Epoch: 6 - Training Loss: 8.068648837028293 - Validation Loss:8.466456456617875
+Epoch: 7 - Training Loss: 8.03760123034136 - Validation Loss:8.4005624814467
+Epoch: 8 - Training Loss: 7.926815588539894 - Validation Loss:8.41486592726274
+Epoch: 9 - Training Loss: 7.9979366075008285 - Validation Loss:8.330712188373912
+Epoch: 10 - Training Loss: 7.899271186338652 - Validation Loss:8.332637895237315
+Epoch: 11 - Training Loss: 7.867363671644019 - Validation Loss:8.265427394346757
+Epoch: 12 - Training Loss: 7.765647901307553 - Validation Loss:8.243151252919978

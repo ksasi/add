@@ -1,0 +1,30 @@
+wandb: Currently logged in as: ksasi. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /home/ubuntu/add/logs/wandb/run-20240427_042444-77czgfdq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run copper-cherry-45
+wandb: ⭐️ View project at https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: 🚀 View run at https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/77czgfdq
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/model_DF_weighted_CCE_30_128_0.0001_finetune/epoch_29.pth
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+Evaluation metrics for DF track using custom datatset on fine-tuned model :
+AUC is : 0.6881781838949171
+EER is : 0.385620915032678
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.009 MB uploadedwandb: | 0.005 MB of 0.009 MB uploadedwandb: / 0.009 MB of 0.009 MB uploadedwandb:                                                                                
+wandb: 🚀 View run copper-cherry-45 at: https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/77czgfdq
+wandb: ⭐️ View project at: https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: /home/ubuntu/add/logs/wandb/run-20240427_042444-77czgfdq/logs

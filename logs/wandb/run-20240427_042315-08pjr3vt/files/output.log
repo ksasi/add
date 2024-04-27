@@ -1,0 +1,7 @@
+
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/model_LA_weighted_CCE_30_128_0.0001_finetune/epoch_28.pth
+Evaluation metrics for LA track using custom datatset on fine-tuned model :
+AUC is : 0.6083333333333333
+EER is : 0.4358974358974871

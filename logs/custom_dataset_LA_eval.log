@@ -1,0 +1,30 @@
+wandb: Currently logged in as: ksasi. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /home/ubuntu/add/logs/wandb/run-20240426_201617-scmtipqu
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run skilled-cherry-37
+wandb: ⭐️ View project at https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: 🚀 View run at https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/scmtipqu
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/LA_model.pth
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+/opt/conda/envs/SSL_Spoofing/lib/python3.7/site-packages/librosa/util/decorators.py:88: UserWarning: PySoundFile failed. Trying audioread instead.
+  return f(*args, **kwargs)
+Evaluation metrics for LA track using custom_dataset :
+AUC is : 0.6275936234817814
+EER is : 0.4276315789473684
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.005 MB of 0.005 MB uploadedwandb: / 0.011 MB of 0.011 MB uploadedwandb:                                                                                
+wandb: 🚀 View run skilled-cherry-37 at: https://wandb.ai/ksasi/Audio_Deepfake_Detection/runs/scmtipqu
+wandb: ⭐️ View project at: https://wandb.ai/ksasi/Audio_Deepfake_Detection
+wandb: Synced 6 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
+wandb: Find logs at: /home/ubuntu/add/logs/wandb/run-20240426_201617-scmtipqu/logs

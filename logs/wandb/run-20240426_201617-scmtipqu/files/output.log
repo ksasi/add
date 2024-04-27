@@ -1,0 +1,7 @@
+
+Device: cuda
+nb_params: 317837834
+Model loaded : /home/ubuntu/add/models/LA_model.pth
+Evaluation metrics for LA track using custom_dataset :
+AUC is : 0.6275936234817814
+EER is : 0.4276315789473684
