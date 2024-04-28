@@ -166,3 +166,5 @@ Demo of **Audio Deepfake Detection** from audio input can be executed by running
 - EER Metric - [blog](https://yangcha.github.io/EER-ROC/)
 - Torchmetrics - [Link](https://lightning.ai/docs/torchmetrics/stable/audio/scale_invariant_signal_noise_ratio.html)
 - SSL_Anti-spoofing - [Link](https://github.com/TakHemlata/SSL_Anti-spoofing)
+- Gradio - [Link](https://www.gradio.app/)
+- Weights & Biases - [Link](https://wandb.ai/site)
